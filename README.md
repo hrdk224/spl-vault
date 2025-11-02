@@ -1,5 +1,6 @@
 # 🔒 Lock Tokens in the Vault on Devnet
 
+
 This project demonstrates how to **lock SPL tokens in a vault** on the **Solana Devnet** using the **Anchor framework**.  
 It simulates a vault mechanism where tokens can be **deposited and withdrawn** securely with on-chain logic.
 
@@ -13,5 +14,7 @@ It simulates a vault mechanism where tokens can be **deposited and withdrawn** s
 - **Track Balances:** Observe balance changes after each operation.
 
 All operations are executed locally on Devnet and tested through Anchor.
+## Tests Passed:
+<img width="1441" height="811" alt="image" src="https://github.com/user-attachments/assets/b79a1370-fac5-4ae9-b00b-2e96d81cfd39" />
 
 ---
